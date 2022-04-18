@@ -11,6 +11,7 @@ class Menu extends Phaser.Scene{
         this.load.audio('sfx_explosion2', './assets/assets_explosion2.wav');
         this.load.audio('sfx_rocket', './assets/assets_rocket_shot.wav');
         this.load.image('shrek', './assets/shrek.png');
+        
     }
 
     create(){
